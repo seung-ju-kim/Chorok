@@ -2,7 +2,7 @@
 # AI_project_Team3
 
 ## 초록(Chorok)
-
+http://kdt-ai4-team03.elicecoding.com/login
  - 프로젝트 주제 
 식물케어와 관련한 종합적인 서비스( AI모델+웹 )입니다.
 
