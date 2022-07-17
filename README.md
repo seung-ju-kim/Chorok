@@ -1,4 +1,5 @@
 ## [식물 케어 서비스]초록(chorok)
+http://kdt-ai4-team03.elicecoding.com/
 
 **1. 프로젝트 주제**
 
